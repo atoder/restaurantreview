@@ -25,8 +25,8 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 
 gem 'carrierwave'
-gem "fog"
-
+gem 'fog'
+gem 'mini_magick'
 
 #Heroku
 gem 'rails_12factor', group: :production
